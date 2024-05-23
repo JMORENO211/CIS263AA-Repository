@@ -1,0 +1,3 @@
+I have opted to use NetBeans as my chosen IDE. The reason why I am using NetBeans is because
+I was introduced to it via a computer science class with java being the main factor. So since my introduction
+to java I have used NetBeans as my IDE.
